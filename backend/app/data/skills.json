@@ -1,0 +1,86 @@
+{
+  "programming_languages": {
+    "Python": ["python", "py"],
+    "Java": ["java"],
+    "JavaScript": ["javascript", "js", "ecmascript", "es6"],
+    "TypeScript": ["typescript", "ts"],
+    "C": ["c"],
+    "C++": ["c++", "cpp"],
+    "C#": ["c#", "csharp"],
+    "Go": ["go", "golang"],
+    "Rust": ["rust"],
+    "PHP": ["php"]
+  },
+
+  "frontend": {
+    "HTML": ["html", "html5"],
+    "CSS": ["css", "css3"],
+    "React": ["react", "reactjs", "react.js"],
+    "Angular": ["angular", "angularjs"],
+    "Vue": ["vue", "vue.js", "vuejs"],
+    "Next.js": ["next.js", "nextjs", "next"],
+    "Tailwind CSS": ["tailwind", "tailwind css", "tailwindcss"],
+    "Bootstrap": ["bootstrap"]
+  },
+
+  "backend": {
+    "Node.js": ["node.js", "nodejs", "node"],
+    "Express": ["express", "express.js"],
+    "FastAPI": ["fastapi", "fast api"],
+    "Django": ["django"],
+    "Flask": ["flask"],
+    "Spring Boot": ["spring boot", "spring"]
+  },
+
+  "databases": {
+    "MySQL": ["mysql"],
+    "PostgreSQL": ["postgresql", "postgres", "psql"],
+    "MongoDB": ["mongodb", "mongo"],
+    "Redis": ["redis"],
+    "SQLite": ["sqlite"],
+    "Oracle": ["oracle", "oracle db"]
+  },
+
+  "data_science": {
+    "NumPy": ["numpy"],
+    "Pandas": ["pandas"],
+    "Scikit-learn": ["scikit-learn", "sklearn"],
+    "TensorFlow": ["tensorflow", "tf"],
+    "PyTorch": ["pytorch", "torch"],
+    "Matplotlib": ["matplotlib"],
+    "Seaborn": ["seaborn"]
+  },
+
+  "ai_nlp": {
+    "Machine Learning": ["machine learning", "ml"],
+    "Deep Learning": ["deep learning", "dl"],
+    "Natural Language Processing": ["natural language processing", "nlp"],
+    "Computer Vision": ["computer vision", "cv"],
+    "Generative AI": ["generative ai", "gen ai", "genai"],
+    "Large Language Models": ["large language models", "llm", "llms"],
+    "RAG": [
+      "rag",
+      "retrieval augmented generation",
+      "retrieval-augmented generation"
+    ],
+    "LangChain": ["langchain"],
+    "spaCy": ["spacy", "spaCy"],
+    "NLTK": ["nltk"]
+  },
+
+  "tools": {
+    "Git": ["git"],
+    "GitHub": ["github"],
+    "Docker": ["docker"],
+    "Postman": ["postman"],
+    "VS Code": ["vs code", "visual studio code"],
+    "Jira": ["jira"]
+  },
+
+  "cloud": {
+    "AWS": ["aws", "amazon web services"],
+    "Azure": ["azure", "microsoft azure"],
+    "Google Cloud": ["google cloud", "gcp", "google cloud platform"],
+    "Firebase": ["firebase"]
+  }
+}
